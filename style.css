@@ -1,0 +1,13 @@
+/*kommentaar*/
+header{
+    color: lightcyan;
+    background-color: #033;
+    font-size: 50px;
+    width: 70%;
+}
+header h1{
+    font-family: Algerian;
+    font-size: larger;
+    letter-spacing: 0.5cm;
+    border-bottom: solid 2px red;
+}
